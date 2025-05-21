@@ -1,4 +1,4 @@
-<h1 align="center" style="color: white;">Hi 👋, I'm Vitor Rios</h1>
+<h1 align="center" style="color: white;">Vitor Rios</h1>
 <h3 align="center" style="color: white;">Career Transition Student | Excel, Power BI, Python | Focused on Data Analysis and Automation</h3>
 
 <p align="center">

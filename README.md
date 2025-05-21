@@ -4,21 +4,14 @@
 
 ### Tech Stack & Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge)  
-![Automation](https://img.shields.io/badge/Automation-00C853?style=for-the-badge)  
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge)
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge) | ![Automation](https://img.shields.io/badge/Automation-00C853?style=for-the-badge) | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge) |
+|---|---|---|---|---|---|---|---|---|
 
 ---
 
-### GitHub Activity
+### GitHub Contribution Graph
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorfrios&show_icons=true&theme=dark&count_private=true)  
+![Vitor's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitorfrios&theme=github)
 
 ---
 
